@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Liquid PHP
-Plugin URI: https://github.com/TheOnlineHero/php_liquid/zipball/master
+Plugin URI: https://github.com/TheOnlineHero/php_liquid
 Description: PHP Liquid is a WordPress plugin that allows you to add liquid tags
 to your stylesheet and page/posts.
 
@@ -31,8 +31,7 @@ function override_mytheme_liquid_array() {
 
 
 Version: 1.1
-Author: TheOnlineHero
-Author URI: 
+Author: TheOnlineHero - Tom Skroza
 License: GPL2
 */
 
